@@ -140,7 +140,7 @@ div.ellipsis {
   width: 15.785%;
 " class="progress-item"></span><span style="
   background-color: #DA5B0B; 
-  width: 15.005%;
+  width: 15.004%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
   width: 11.645%;
@@ -152,10 +152,10 @@ div.ellipsis {
   width: 7.341%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 5.721%;
+  width: 5.720%;
 " class="progress-item"></span><span style="
   background-color: #427819; 
-  width: 4.641%;
+  width: 4.640%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
   width: 2.299%;
@@ -223,6 +223,9 @@ div.ellipsis {
   background-color: #000; 
   width: 0.003%;
 " class="progress-item"></span><span style="
+  background-color: #1fbec9; 
+  width: 0.002%;
+" class="progress-item"></span><span style="
   background-color: #384d54; 
   width: 0.002%;
 " class="progress-item"></span><span style="
@@ -264,7 +267,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C</span>
-  <span class="percent">15.79%</span>
+  <span class="percent">15.78%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -718,6 +721,22 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
+      style="fill: #1fbec9;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Slang</span>
+  <span class="percent">0.00%</span>
+</li>
+<li style="animation-delay: 4800ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
       style="fill: #384d54;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -730,7 +749,7 @@ div.ellipsis {
   <span class="lang">Dockerfile</span>
   <span class="percent">0.00%</span>
 </li>
-<li style="animation-delay: 4800ms;">
+<li style="animation-delay: 4950ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
